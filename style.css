@@ -1,0 +1,126 @@
+
+.section-home {
+    background-image: url(images/background2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 20px 25px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    min-height: 805px;
+    background-attachment: fixed;
+}
+.bg-color{
+    background-color: black;
+}
+body{
+    margin: 0px;
+}
+.bg-services{
+    background-color: black
+}
+.nav-item:hover {
+    background-color: #337AFF;
+    border-radius: 12px;
+    border-style: inherit;
+    
+    
+  }
+  .bg-passion{
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 5px 9px 0 rgb(0, 0, 0), 0 20px 25px 0 rgb(0, 0, 0);
+    width: 100%;
+    min-height: 805px;
+    background-attachment: fixed;
+    background-color: black
+
+  }
+  .card{
+      background-color: black;
+      color: cornflowerblue;
+  }
+  .navbar-toggler{
+      background-color: cornflowerblue;
+  }
+
+.link-style1{
+    color: dodgerblue;
+    text-decoration: none; 
+    font-size: 2rem; 
+}
+
+.link-style1:hover{
+    color: #3b5998;
+}
+
+.link-style2{
+    color: #C13584;
+    text-decoration: none; 
+    font-size: 2rem;
+}
+.link-style2:hover{
+    color: #E1306C;
+}
+
+.link-style3{
+    color: dodgerblue;
+    text-decoration: none; 
+    font-size: 2rem;
+}
+.link-style3:hover{
+    color: #00acee;
+}
+
+.link-style4{
+    color: #ff0000;
+    text-decoration: none; 
+    font-size: 2rem;
+}
+.link-style4:hover{
+    color: #c4302b;
+}
+.link-style1-footer{
+    color: dodgerblue;
+    text-decoration: none; 
+}
+.link-style2-footer{
+    color: #C13584;
+    text-decoration: none; 
+}
+.link-style3-footer{
+    color: dodgerblue;
+    text-decoration: none; 
+}
+.link-style4-footer{
+    color: crimson;
+    text-decoration: none; 
+}
+.comment-icon:hover{
+    transform: scale(1.1);
+}
+.comment-icon{
+    transition: all 0.3s linear;
+}
+.crossroads{
+    padding-top: 30%;
+    padding-right: 20%;
+    transition: all 0.3s linear;
+    
+}
+.crossroads:hover{
+    transform: scale(0.9);
+    border-radius: 10px;
+    border-style: initial;
+}
+.size-padding{
+    padding-top: 10%;
+}
+.size-padding-footer{
+    padding-top: 5%;
+}
+.email-icon{
+    color: rgb(70, 110, 150);
+    text-decoration: none; 
+    font-size: 2rem
+    
+}
