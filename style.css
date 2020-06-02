@@ -124,3 +124,7 @@ body{
     font-size: 2rem
     
 }
+
+.form-control{
+    background-color: lavenderblush;
+}
